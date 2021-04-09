@@ -47,7 +47,7 @@ const TokenComponentForm = (props) => {
           </Col>
         </Form.Row>
 
-        <Button variant="primary" onClick={props.signInButton_Click}>Sign In</Button>{' '}
+        <Button variant="primary" onClick={props.signInButton_Click}>Sign IN</Button>{' '}
         <Button variant="primary" onClick={props.profileButton_Click}>Profile</Button>{' '}
         <Button variant="primary" onClick={props.peopleButton_Click}>People</Button>{' '}
         <Button variant="primary" onClick={props.groupsButton_Click}>Groups</Button>{' '}
